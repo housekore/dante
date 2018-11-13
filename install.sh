@@ -6,7 +6,7 @@
 #   -- Author:      Lozy
 #
 
-REQUEST_SERVER="https://github.com/housekore/dante/blob/master/danted"
+REQUEST_SERVER="https://raw.githubusercontent.com/housekore/dante/master/danted"
 SCRIPT_SERVER="https://public.sockd.info"
 SYSTEM_RECOGNIZE=""
 
